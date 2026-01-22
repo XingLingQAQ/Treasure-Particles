@@ -1,3 +1,2 @@
-# TreasureParticles
-
-The most intelligent particles plugin
+# TreasureParticles - OUTDATED
+Moved to https://github.com/zypec/Particles
